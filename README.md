@@ -2,10 +2,9 @@
 Some up-to-date results of applying deep learning techniques in physics and some resources collected for learning how to leverage deep learning to solve problems in physics.
 
 # Table of Contents  
-[Deep Learning Fundamental](#DeepLearningFundamental)
+* [Deep Learning Fundamental](#deep-learning-fundamental)
 
-[PyTorch Framework](#pytorchframework)
-
+* [PyTorch Framework](#pytorch-framework)
 
 # Deep Learning Fundamental
 
@@ -20,5 +19,7 @@ Books:
 
 
 # PyTorch Framework
+
 The main deep learning framework used for building deep neural networks here is [PyTorch](https://pytorch.org/).
+
 

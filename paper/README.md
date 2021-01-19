@@ -2,30 +2,36 @@
 
 ## Table of Contents
 
-[Machine Learning and Deep Learning Overview](#MachineLearningandDeepLearningOverview)
+[Machine Learning and Deep Learning Overview](#machine-learning-and-deep-learning-overview)
 
-[Deep Learning Optimization](#DeepLearningOptimization)
+[Deep Learning Optimization](#deep-learning-optimization)
 
-[Deep Learnig Models](#DeepLearnigModels)
+[Deep Learnig Models](#deep-learnig-models)
 
-[Application in Physics](#ApplicationinPhysics)
+[Application in Physics](#applications-in-physics)
 
 ## Machine Learning and Deep Learning Overview
+
+
 * [Deep learning. LeCun, Y., Bengio, Y. & Hinton, G.  (2015)](https://www.nature.com/articles/nature14539#citeas)
 
 
 ## Deep Learning Optimization
 
+
 * [Adam: A Method for Stochastic Optimization. Diederik P. Kingma and Jimmy Ba. (2017)](https://arxiv.org/abs/1412.6980)
 
 ## Deep Learnig Models
+
 
 * [ImageNet Classification with Deep Convolutional Neural Networks. Krizhevsky, Alex and Sutskever, Ilya and Hinton, Geoffrey E. NeurIPS (2012)](https://proceedings.neurips.cc/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html)
 
 * [Auto-Encoding Variational Bayes. Diederik P Kingma and Max Welling. (2014)](https://arxiv.org/abs/1312.6114)
 
-<a name="ApplicationinPhysics"/>
+
+
 ## Applications in Physics
+
 
 * [A high-bias, low-variance introduction to Machine Learning for physicists. (2019)](https://arxiv.org/abs/1803.08823)
 
