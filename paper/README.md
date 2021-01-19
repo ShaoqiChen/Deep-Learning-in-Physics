@@ -24,6 +24,7 @@
 
 * [Auto-Encoding Variational Bayes. Diederik P Kingma and Max Welling. (2014)](https://arxiv.org/abs/1312.6114)
 
+<a name="ApplicationinPhysics"/>
 ## Applications in Physics
 
 * [A high-bias, low-variance introduction to Machine Learning for physicists. (2019)](https://arxiv.org/abs/1803.08823)
