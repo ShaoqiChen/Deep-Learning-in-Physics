@@ -4,6 +4,8 @@
 
 [Machine Learning and Deep Learning Overview](#machine-learning-and-deep-learning-overview)
 
+[Statistics](#statistics)
+
 [Deep Learning Optimization](#deep-learning-optimization)
 
 [Deep Learnig Models](#deep-learnig-models)
@@ -15,6 +17,10 @@
 
 * [Deep learning. LeCun, Y., Bengio, Y. & Hinton, G.  (2015)](https://www.nature.com/articles/nature14539#citeas)
 
+
+## Statistics
+
+* [What are the most important statistical ideas of the past 50 years? Andrew Gelman. (2021)](https://arxiv.org/abs/2012.00174)
 
 ## Deep Learning Optimization
 
